@@ -150,7 +150,25 @@ const Index: React.FC = () => {
       {(gamePhase === 'event' || gamePhase === 'outcome') && (
         <div className="min-h-screen p-4 flex flex-col">
           <div className="text-responsive-xl text-glow text-center mb-4 border-b border-primary pb-2">
-            PRESIDE FOR LIFE
+
+        <pre className="text-responsive-xs md:text-responsive-sm text-glow text-center text-no-line mb-6">
+{`
+╔═════════════════════════════════════════════════════════╗
+║                                                         ║
+║                                              -------    ║
+║            ________________________          |  X  |    ║
+║           /   _            _      /|     ##  |------    ║
+║          /   /_/   $$$    /_/    / /    ##   |          ║
+║         /_________/   i_________/ /    ##    |          ║
+║         |[] [] [] [] [] [] [] []|/    ##     |          ║
+║        /-----------------------/     ##      |          ║
+║                                     ##       {}         ║
+║   ###################################        {}         ║
+║                                                         ║
+║                                                         ║
+╚═════════════════════════════════════════════════════════╝
+`}
+</pre>
           </div>
           
           <div className="flex-1 grid md:grid-cols-2 gap-4 max-w-6xl mx-auto w-full">
@@ -183,7 +201,7 @@ const Index: React.FC = () => {
           </div>
           
           <div className="text-responsive-xs text-muted-foreground text-center mt-4 pt-2 border-t border-primary">
-            AMBER TERMINAL v1.0 │ CLASSIFIED │ EYES ONLY
+            TOTAL POWER v1.0 │ HS3.PL │ GAMES WITH MESSAGE
           </div>
         </div>
       )}

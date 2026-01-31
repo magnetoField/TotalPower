@@ -19,7 +19,7 @@ const EventDisplay: React.FC<EventDisplayProps> = ({ event, onChoice, disabled }
       </div>
       
       <div className="border-t border-primary pt-4">
-        <div className="text-responsive-sm text-muted-foreground mb-3">
+        <div className="text-responsive-sm text-muted-foreground text-glow mb-3">
           SELECT YOUR RESPONSE:
         </div>
         

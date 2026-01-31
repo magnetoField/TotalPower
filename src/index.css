@@ -104,6 +104,10 @@
     text-shadow: var(--text-glow);
   }
 
+  .text-no-line {
+	  line-height: 1;
+  }
+
   .crt-glow {
     box-shadow: var(--crt-glow);
   }

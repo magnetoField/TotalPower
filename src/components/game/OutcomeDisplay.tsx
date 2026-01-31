@@ -37,7 +37,7 @@ const OutcomeDisplay: React.FC<OutcomeDisplayProps> = ({ outcome, effects, onCon
       
       {effectStrings.length > 0 && (
         <div className="border border-muted p-3 mb-6">
-          <div className="text-responsive-sm text-muted-foreground mb-2">
+          <div className="text-responsive-sm text-muted-foreground text-glow mb-2">
             EFFECTS:
           </div>
           <div className="grid gap-1">
