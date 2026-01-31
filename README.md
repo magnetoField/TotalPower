@@ -1,22 +1,34 @@
-# Welcome to your Lovable project
+# TOTAL POWER 
 
-## Project info
+## About
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+In Total Power, the weight of a nation doesn’t sit on your shoulders—it sits at the tip of your pen.
 
-## How can I edit this code?
+You’ve just been inaugurated. The crowds are cheering, the cameras are flashing, and the mahogany desk in the Office is finally yours. But as the doors close and the silence sets in, the reality of the chair becomes clear: every choice is a trade-off, and every decree has a price.
 
-There are several ways of editing your application.
+## The Vision
 
-**Use Lovable**
+Total Power is a deep, text-based political fiction strategy game that places you at the heart of a volatile government. You aren’t just playing a role; you are defining a legacy. Will you be the visionary who strengthens the foundations of liberty, or the "Strongman" who decides that the people are too chaotic to rule themselves?
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Key Features
 
-Changes made via Lovable will be committed automatically to this repo.
+The Moral Compass: Navigate complex branching narratives where "right" and "wrong" are often buried under layers of political necessity.
 
-**Use your preferred IDE**
+Ideological Warfare: Shift the country’s alignment on a dynamic scale between Radical Democracy and Totalitarianism.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Crisis Management: Handle everything from economic collapses and civil unrest to international espionage and shadow cabinet conspiracies.
+
+The Legacy System: Your term isn't forever. Whether you leave office via a peaceful transition, a term limit, or a violent coup depends entirely on the precedents you set.
+
+"Power doesn't corrupt; it reveals. By the end of your first term, the world will know exactly who you are."
+
+## How Will You Rule?
+
+Will you dismantle the secret police to earn the love of the masses, even if it leaves you vulnerable to an assassination plot? Or will you censor the press "for the sake of national stability"?
+
+In Total Power, the constitution is just a piece of paper. You are the one who decides what the ink says.
+
+## Installation 
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -36,38 +48,3 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
