@@ -47,4 +47,23 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+## RUNING IN DOS
 
+To play this game on retromachines you need Basic interpreter. Dosbox with gw-basic will do the trick.
+
+```sh
+gw-basic.exe tppc.bas
+````
+
+## RUNNING IN BASIC
+
+You can run this program on any machine with Basic interpreter.
+
+```sh
+load "tppc.bas"
+run
+````
+
+## HOW TO GET FLOPPY DISK
+
+If you have old machine without possibility to record floppy disk 5.25 contact hs3.pl.
