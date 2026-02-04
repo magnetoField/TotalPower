@@ -1,5 +1,6 @@
 # TOTAL POWER 
-
+## Play online
+To play webapp version of this dos game visit here [https://github.com/magnetoField/TotalPower](https://github.com/magnetoField/TotalPower)
 ## About
 
 In Total Power, the weight of a nation doesn’t sit on your shoulders—it sits at the tip of your pen.
