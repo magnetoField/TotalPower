@@ -1,0 +1,9 @@
+services:
+  total-power:
+    container_name: total-power
+    image: total-power:latest
+    build:
+      context: .
+    restart: unless-stopped
+    ports:
+      - 9187:3000/tcp
